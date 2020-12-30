@@ -18,5 +18,3 @@ def Book
   end
 
 end
-
-
